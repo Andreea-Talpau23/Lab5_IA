@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body> 
+  <h1>Tălpău Andreea</h1>
+  <img src="talpauandreea.poza.jpeg" width="300" height="480">
+  <p>Descrierea propriei persoane:</p>
+  <p>Nume și prenume: Tălpău Andreea</p>
+  <p>Facultatea: ETTI Cluj-Napoca</p>
+  <p>Date de contact:</p>
+  <p>Facebook: Ghi Ghi</p>
+  <p>Instagram: _ghi_ghi_</p>
+  <p>Email: Talpau.Gh.Andreea@utcluj.didatec.ro</p>
+  <p>Citat preferat:</p>
+  <p>    "Ce rost are griji a-ti face? </p>                      
+  <p>     La nimic nu-ți folosește, </p>
+  <p>     Așa, pune grijile deoparte, </p>
+  <p>     Și zâmbește, zâmbește, zâmbește." </p>
+  <p>                   G. Asaf</p>
+
+  <h2>Materii preferate din anul I</h2>
+ <table>
+  <tbody>
+    <tr>
+	<td><a https://etti.utcluj.ro/files/FiseDisciplina/EaRo/05.pdf>Algebră liniară și geometrie diferențială</a></td>
+	<tr></tr> 
+	<td><a https://etti.utcluj.ro/files/FiseDisciplina/EaRo/06.pdf>Teoria circuitelor electrice:</a></td>
+    <tr></tr>
+    <td><a https://etti.utcluj.ro/files/FiseDisciplina/EaRo/05.pdf>Circuite și componente electronice pasive</a></td>
+  </tbody>
+ </table>
+ <h2>Pasiuni:</h2>
+    <ul>
+	  <li>Moda</li>
+	  <img src="fashion.jpeg" width="104" height="142">
+	  <li>Fotografie</li>
+	  <img src="cercel.jpeg" width="134" height="170">
+	  <img src="barci.jpeg" width="164" height="170">
+	  <li>Make-up</li>
+	  <img src="makeup.jpeg" width="104" height="142">
+ </ul>
+ </body>
+ </html>
